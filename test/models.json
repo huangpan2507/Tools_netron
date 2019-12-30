@@ -5312,6 +5312,7 @@
     "type":   "torchscript",
     "target": "mobilenet_quantized_scripted_925.pt",
     "source": "https://github.com/pytorch/android-demo-app/blob/master/PyTorchDemoApp/app/src/main/assets/mobilenet_quantized_scripted_925.pt?raw=true",
+    "error":  "Python source 'code/ops.py' in 'mobilenet_quantized_scripted_925.pt'.",
     "format": "TorchScript v1",
     "link":   "https://github.com/pytorch/android-demo-app"
   },
